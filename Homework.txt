@@ -1,0 +1,4 @@
+testscore = 50
+testresult = 35
+test = (testresult/testscore)
+print (test)
